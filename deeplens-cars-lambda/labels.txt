@@ -1,0 +1,10 @@
+BMW-M3-Coupe-2012
+Ford-ESeries-Wagon-Van-2012
+Ford-Expedition-EL-SUV-2009
+Ford-Fiesta-Sedan-2012
+Ford-Freestar-Minivan-2007
+Hummer-SUV
+Lamborghini-Aventador-Coupe-2012
+Toyota-Camry-Sedan-2012
+Toyota-Corolla-Sedan-2012
+Volvo-240-Sedan-1993
